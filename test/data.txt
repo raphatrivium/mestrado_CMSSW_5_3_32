@@ -1,0 +1,10 @@
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/045CCED6-033F-E311-9E93-003048678F74.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/0830BC83-043F-E311-A865-003048FFD752.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/0867387C-033F-E311-AFE0-0026189438A2.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/08C0954A-013F-E311-82AD-003048FFD720.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/10FF8BDD-033F-E311-99CB-002618FDA210.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/1A6B127D-033F-E311-988C-00261894380A.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/209BA10C-043F-E311-A8AA-002618943870.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/22317CE5-033F-E311-813C-00259059649C.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/2258E319-053F-E311-8C7F-003048678FF4.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/DoubleMu/AOD/12Oct2013-v1/20000/282677C4-013F-E311-B326-003048FFCBFC.root
