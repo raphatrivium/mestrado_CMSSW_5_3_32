@@ -6,7 +6,7 @@ process = cms.Process("Demo")
 
 process.load("FWCore.MessageService.MessageLogger_cfi")
 
-process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(500) )
+process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(-1) )
 
 process.source = cms.Source("PoolSource",
     # replace 'myfile.root' with the source file you want to use
@@ -27,7 +27,7 @@ process.TFileService = cms.Service ('TFileService',
 )
   
 process.demo = cms.EDAnalyzer('JpsiAnalyzerOpen2011',
-        verbose = cms.bool(True),
+        verbose = cms.bool(False),
 	triggerflag = cms.bool(True), # True = Data and False = MC		      
 	# Trigger
 	TriggerResultsTag = cms.untracked.InputTag("TriggerResults", "", "HLT"),
