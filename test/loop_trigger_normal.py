@@ -105,6 +105,8 @@ while True:
                 print 'Numbers of lines - data file: ',NumberLinesData
 
             j = 0
+	    data_type = raw_input("From which file do you want to begin? [number (remember the index)]")
+	    j = int(data_type)
             while j < NumberLinesData:                          #loop data.txt
                 k = j+1 #To make file withot zero index
                 if os.path.exists('JPSIAnaOpenData2011.py'):    #look if a file exist
@@ -119,8 +121,8 @@ while True:
                 fileOutput = open('JPSIAnaOpenData2011.py', 'w') #output file
                 fileData = open('data.txt', 'r')                    #open data file
                 LinesData = fileData.readlines()
-                i = 0
-
+                i = 0 
+		
                 #loop write file
                 while i < NumberLines:                          
                     LinesSrc = str(LinesModel[i])
